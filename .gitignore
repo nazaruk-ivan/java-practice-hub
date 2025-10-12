@@ -1,0 +1,10 @@
+*.jar
+*.war
+*.ear
+*.iml
+/out/
+/.idea/
+/.DS_Store
+*.log
+*.tmp
+*.swp
