@@ -5,6 +5,6 @@ which will start in October.
 
 Progress:
 I'm doing Youtube tutorial from "Code Bro"(linK:https://www.youtube.com/watch?v=xTtL8E4LzTQ&list=PLddcw1VtglK4iHPTpAZSpXNhq7IEnCEei&index=6)
-and so far I did 6 hours of it(half).
+and so far I did 8 hours of it.
 
 -After each topic, I'm searching for exercise and doing it to reinforce my knowledge.
