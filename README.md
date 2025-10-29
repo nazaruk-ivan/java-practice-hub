@@ -1,10 +1,10 @@
 # Java Practice Hub
-So far, I have been working on youtube tutorials and small 
-personal projects to prepare for university lectures, 
-which will start in October. 
 
-Progress:
-I'm doing Youtube tutorial from "Code Bro"(linK:https://www.youtube.com/watch?v=xTtL8E4LzTQ&list=PLddcw1VtglK4iHPTpAZSpXNhq7IEnCEei&index=6)
-and so far I did 8 hours of it.
+### Progress
+- Finished the full **Java tutorial by Code Bro** → [YouTube Playlist](https://www.youtube.com/watch?v=xTtL8E4LzTQ&list=PLddcw1VtglK4iHPTpAZSpXNhq7IEnCEei&index=6) ✅
+- All related code and examples are complete.
 
--After each topic, I'm searching for exercise and doing it to reinforce my knowledge.
+### Next steps
+- Continue with the **Java Roadmap** from [Roadmap.sh](https://roadmap.sh/java).
+- Focus on **writing real code** through small pet projects.
+- Keep attending **lectures and lab sessions** to apply what I learn.  
