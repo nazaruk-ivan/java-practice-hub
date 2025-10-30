@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 11Tasks_MethodsAndRecursion {
+public class eleven_Tasks_MethodsAndRecursion {
     //Methods and recursion practice
     public static void main(String[] args) {
         printHello();

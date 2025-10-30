@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.io.FileReader;
 import java.util.Arrays;
 
-public class Main {
+public class lab24_10 {
     public static void main(String[] args) {
         //Lab 24.10.2025
 
